@@ -1,5 +1,5 @@
-# python_notes
+# python_notes & machine Learning
 
 #python practice from scratch..
 
-#introduction of datatypes 
+#machine learning..
